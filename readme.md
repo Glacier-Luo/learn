@@ -1,3 +1,0 @@
-# Git Readme
-
-`useless`
